@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**jachinte/jachinte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [Varxen](https://www.varxen.com)
+- 💬 Ask me about anything related to cloud and web programming
+- ⚡ Fun fact: I've been to 10 countries so far :) ask me which ones!
 
-Here are some ideas to get you started:
+## 📈 Github Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Stats](https://github-profile-trophy.vercel.app/?username=jachinte&title=MultiLanguage,LongTimeUser,Repositories,Stars,Commits,Issues,Followers,PullRequest&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=algolia)
+
+## 💼 Skills
+
+- Web and Cloud Programming
+- Software Deployment
+- Architecture Design
+- CI/CD
+- Continuous Experimentation
+- Cloud Capacity Planning
+- Infrastructure as Code
+- Language Engineering
+- Technical Writing
+
+## 📝 Programming Languages
+
+- Java
+- JavaScript / TypeScript
+- Python
+- R
+- C#
+- C
+- ShellScript
+
+And some domain-specific languages:
+<details>
+SQL, CSS, HTML, Latex, HCL
+</details>
