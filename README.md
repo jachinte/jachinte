@@ -5,7 +5,6 @@ quality and craftsmanship, coupled with a quick and independent learning style.
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/jachinte).
 
-- 🔭 I’m currently working on [Varxen](https://www.varxen.com)
 - 💬 Ask me about anything related to cloud and web programming
 - ⚡ Fun fact: I've been to 10 countries so far :) ask me which ones!
 
