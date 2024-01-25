@@ -1,12 +1,9 @@
 # Hi there 👋
 
-I'm Miguel, a Colombian software engineer specialized in web and cloud development. I'm characterized by a passion for
+I'm Miguel, a Colombian software engineer specialized in platform engineering. I'm characterized by a passion for
 quality and craftsmanship, coupled with a quick and independent learning style.
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/jachinte).
-
-- 💬 Ask me about anything related to cloud and web programming
-- ⚡ Fun fact: I've been to 10 countries so far :) ask me which ones!
 
 ## 📈 Github Stats
 
@@ -14,10 +11,12 @@ quality and craftsmanship, coupled with a quick and independent learning style.
 
 ## 💼 Skills
 
+- Platform engineering
 - Web and Cloud Programming
 - Software Deployment
 - Architecture Design
 - CI/CD
+- GitOps
 - Continuous Experimentation
 - Cloud Capacity Planning
 - Infrastructure as Code
